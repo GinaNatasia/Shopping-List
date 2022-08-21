@@ -1,0 +1,63 @@
+.done {
+  text-decoration: line-through;
+}
+
+body {
+  background: url(https:img.freepik.com/premium-photo/supermarket-aisle-with-empty-shopping-cart-grocery-store-retail-business-concept_293060-2648.jpg?w=1480);
+  margin-top: 30px;
+  background-size: cover;
+  background-color: rgb(228, 233, 213);
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.21);
+}
+
+#userinput {
+  width: 250px;
+  height: 25px;
+  margin-left: 40px;
+  border-width: 3px;
+  border-radius: 5px;
+}
+
+#enter {
+  width: 30px;
+  height: 35px;
+  font-weight: bold;
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(161, 234, 51);
+}
+
+#first {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#allItems {
+  color: black;
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+button {
+  margin: 2px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  padding: 4px 8px;
+}
